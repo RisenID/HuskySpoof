@@ -79,10 +79,10 @@ public class MainHook implements IXposedHookLoadPackage {
         XposedHelpers.setStaticObjectField(Build.class, "BOARD", "husky");
 
         // ro.build.id
-        XposedHelpers.setStaticObjectField(Build.class, "ID", "AP1A.240505.005");
+        XposedHelpers.setStaticObjectField(Build.class, "ID", "AP2A.240805.005");
 
         // ro.build.fingerprint
         XposedHelpers.setStaticObjectField(Build.class, "FINGERPRINT",
-                "google/husky/husky:14/AP1A.240505.005/11677807:user/release-keys");
+                "google/husky/husky:14/AP2A.240805.005/12025142:user/release-keys");
     }
 }

@@ -21,5 +21,4 @@ You must also have [LSPosed](https://github.com/mywalkb/LSPosed_mod) installed
 - Once rebooted, you should be able to successfully open your apps.
 
 ## FAQ and issues
-### The wearable app asks me to download the plugin from the Play Store
-After the installation finishes, open the LSPosed Manager and add the app to the PixelSpoof module. Reboot afterwards. You might need to clear cache and data of the app you want to spoof too.
+Select the app you want to spoof in the lsposed menu for the app.
